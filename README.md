@@ -1,3 +1,5 @@
+## Name: THARUN R
+## Reg No:212224240172
 # EX-11-EMI-CALCULATOR
 
 ## AIM
